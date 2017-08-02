@@ -61,6 +61,11 @@ If you would like add something, just send the text as you would like it to appe
 
   A course based on Coq.
 
+- Tobias Nipkow and Peter Lammich, [Verified Functional Data Structures](http://www21.in.tum.de/teaching/FDS/SS17/)
+
+  A course on the design and analysis of data structures for functional programming languages, using Isabelle. The resourced are available [here](https://bitbucket.org/plammich/fds_ss17).
+
+
 ### Mathematics
 
 - Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn, [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
@@ -90,6 +95,10 @@ If you would like add something, just send the text as you would like it to appe
 
 - N. Shankar, L. de Moura, H. Ruess, and A. Tiwari, [Little Engines of Proof](http://www.csl.sri.com/users/shankar/LEP.html)
 
-  A course on automated deduction and decision procedures. 
+  A course on automated deduction and decision procedures.
+
+- Josef Urban, Chad E. Brown, and Ondřej Kunčar, [Formal Mathematics and Proof Assistants](http://arg.ciirc.cvut.cz/fmpa/)
+
+  A course using Mizar, Isabelle, and Coq.
 
 
