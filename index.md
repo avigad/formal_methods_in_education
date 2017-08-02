@@ -1,5 +1,5 @@
 ---
-title: A Collection of Resources
+title: Resources for Teaching with Formal Methods
 layout: page
 ---
 
