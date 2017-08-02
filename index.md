@@ -5,17 +5,15 @@ layout: page
 
 This page collects resources for anyone considering the use of formal methods and formal tools in a classroom. The effort grew out of a discussion that was held during the [Big Proof](https://www.newton.ac.uk/event/bpr) program at the Isaac Newton Institute in Cambridge, UK. A [recording](https://www.newton.ac.uk/seminar/20170724153017302) of the discussion is available.
 
-There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.).
+There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.). Here I have chosen to classify the material by subject matter:
 
-Here I have chosen to classify the material by subject matter:
+- computer science: material for teaching students to use formal methods for computational purposes, e.g. courses on software design and verification.
 
-- computer science: courses that teach students to use formal methods for computational purposes, e.g. courses on software design and verification.
+- mathematics: material for teaching mathematics, e.g. courses on discrete mathematics or introductions to mathematical proof. 
 
-- mathematics: courses that use formal methods and tools to teach mathematics, e.g. an introduction to discrete mathematics or mathematical proof. 
+- logic and formal methods: materials for teaching logic and formal methods themselves, e.g. courses on dependent type theory and automated reasoning.
 
-- logic and formal methods: using formal tools to teach logic and formal methods themselves, e.g. courses on dependent type theory and automated reasoning.
-
-If you would like add something, just send the text as you would like it to appear to <avigad@cmu.edu>, preferrably already formatted in [markdown](https://daringfireball.net/2004/12/markdown_101), or issue a pull request to the [github repository](https://github.com/avigad/formal_methods_in_education) that hosts this page. Entries should provide a link to the relevant resources, which in turn should make use of formal tools (theorem provers, SAT solvers, model checkers, etc.) in some way.
+If you would like add something, just send the text as you would like it to appear to <avigad@cmu.edu>, preferrably already formatted in [markdown](https://daringfireball.net/2004/12/markdown_101). Entries should provide a link to the relevant resources, which in turn should make use of formal tools (theorem provers, SAT solvers, model checkers, etc.) in some way.
 
 ### Computer Science
 
