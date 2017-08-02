@@ -1,24 +1,23 @@
 ---
-title: Resources
+title: A Collection of Resources
 layout: page
 ---
 
-This page collects resources for anyone considering the use of formal methods and formal tools in a classroom. The effort grew out of a meeting on formal methods in education that was held during the [Big Proof](https://www.newton.ac.uk/event/bpr) program at the Isaac Newton Institute in Cambridge, UK. A [recording](https://www.newton.ac.uk/seminar/20170724153017302) of the meeting is available.
+This page collects resources for anyone considering the use of formal methods and formal tools in a classroom. The effort grew out of a discussion that was held during the [Big Proof](https://www.newton.ac.uk/event/bpr) program at the Isaac Newton Institute in Cambridge, UK. A [recording](https://www.newton.ac.uk/seminar/20170724153017302) of the discussion is available.
 
-There are many axes along which one can organize such a list, such as level of expertise of the intended audience (ranging from experts and graduate students to the public at large) or their disciplinary orientation (computer science, mathematics, mathematical logic, etc.).
+There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.).
 
 Here I have chosen to classify the material by subject matter:
 
-- computer science: courses that teach students to use formal methods for computational purposes, e.g. in hardware and software design and verification.
+- computer science: courses that teach students to use formal methods for computational purposes, e.g. courses on software design and verification.
 
-- mathematics: courses that use formal methods and tools to teach mathematics, e.g. in an introduction to discrete mathematics or mathematical proof. 
+- mathematics: courses that use formal methods and tools to teach mathematics, e.g. an introduction to discrete mathematics or mathematical proof. 
 
 - logic and formal methods: using formal tools to teach logic and formal methods themselves, e.g. courses on dependent type theory and automated reasoning.
 
-If you would like add something to the list, just send the text as you would like it to appear to <avigad@cmu.edu>, preferrably already formatted in [markdown](https://daringfireball.net/2004/12/markdown_101), or issue a pull request to the [github repository](https://github.com/avigad/formal_methods_in_education) that hosts this page. Entries should provide a link to the relevant resources, which in turn should make use of formal tools (theorem provers, SAT solvers, model checkers, etc.) in some way.
+If you would like add something, just send the text as you would like it to appear to <avigad@cmu.edu>, preferrably already formatted in [markdown](https://daringfireball.net/2004/12/markdown_101), or issue a pull request to the [github repository](https://github.com/avigad/formal_methods_in_education) that hosts this page. Entries should provide a link to the relevant resources, which in turn should make use of formal tools (theorem provers, SAT solvers, model checkers, etc.) in some way.
 
-Computer Science
-----------------
+### Computer Science
 
 - Benjamin Pierce at al., [Software Foundations](https://softwarefoundations.cis.upenn.edu). 
 
@@ -64,12 +63,11 @@ Computer Science
 
   A course based on Coq.
 
-Mathematics
------------
+### Mathematics
 
 - Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn, [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
 
-  An undergraduate introduction to mathematical proof and symbolic logic, with exercises in Lean.
+  An introduction to mathematical proof and symbolic logic, with exercises in Lean.
 
 - Daniel Velleman, [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
 
@@ -77,11 +75,12 @@ Mathematics
 
 - [The STACK Project](https://stack.maths.ed.ac.uk/demo/question/type/stack/doc/doc.php/About/index.md) 
 
-  A system for designing sophisticated computer-aided assessments in mathematics. See also Sangin, Chris, [Computer Aided Assessment of Mathematics](https://global.oup.com/academic/product/computer-aided-assessment-of-mathematics-9780199660353?cc=gb&lang=en&).
+  A system for designing sophisticated computer-aided assessments in mathematics.
 
-
-Logic and Formal Methods
-------------------------
+- Chris Sangwin, [Computer Aided Assessment of Mathematics](https://global.oup.com/academic/product/computer-aided-assessment-of-mathematics-9780199660353?cc=gb&lang=en&)
+  A book on the use of computer aided assessment.
+   
+### Logic and Formal Methods
 
 - Femke van Raamsdonk, Hermann Guevers, et al., [Type Theory and Coq](http://www.cs.ru.nl/~freek/courses/tt-2016/)
 
