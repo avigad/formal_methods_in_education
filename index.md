@@ -1,4 +1,5 @@
 ---
+title: Resources
 layout: page
 ---
 
@@ -74,9 +75,7 @@ Mathematics
 
   A Java applet designed to help students write proofs. 
 
-- Chris Sangwin,
-
-- [The STACK Proejct](https://stack.maths.ed.ac.uk/demo/question/type/stack/doc/doc.php/About/index.md) 
+- [The STACK Project](https://stack.maths.ed.ac.uk/demo/question/type/stack/doc/doc.php/About/index.md) 
 
   A system for designing sophisticated computer-aided assessments in mathematics. See also Sangin, Chris, [Computer Aided Assessment of Mathematics](https://global.oup.com/academic/product/computer-aided-assessment-of-mathematics-9780199660353?cc=gb&lang=en&).
 
