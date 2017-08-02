@@ -63,7 +63,7 @@ If you would like add something, just send the text as you would like it to appe
 
 - Tobias Nipkow and Peter Lammich, [Verified Functional Data Structures](http://www21.in.tum.de/teaching/FDS/SS17/)
 
-  A course on the design and analysis of data structures for functional programming languages, using Isabelle. The resourced are available [here](https://bitbucket.org/plammich/fds_ss17).
+  A course on the design and analysis of data structures for functional programming languages, using Isabelle. The resources are available [here](https://bitbucket.org/plammich/fds_ss17).
 
 
 ### Mathematics
