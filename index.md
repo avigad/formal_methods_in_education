@@ -65,7 +65,14 @@ If you would like add something, just send the text as you would like it to appe
 
   A course on the design and analysis of data structures for functional programming languages, using Isabelle. The resources are available [here](https://bitbucket.org/plammich/fds_ss17).
 
+- Yves Bertot [Software Verification and Computer Proof](https://team.inria.fr/marelle/en/coq-winter-school-2017/)
 
+  An introductory course on functional programming and program verification using Coq.
+
+- Yves Bertot, Cyril Cohen, Laurence Rideau, and Enrico Tassi, [Advanced Software Verification and Computer Proof](https://team.inria.fr/marelle/en/advanced-coq-winter-school-2016-2017/)
+
+  A course on describing mathematical concepts and algorithms using Coq and the mathematlcal Components library.
+  
 ### Mathematics
 
 - Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn, [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
