@@ -109,4 +109,8 @@ If you would like add something, just send the text as you would like it to appe
 
   A course using Mizar, Isabelle, and Coq.
 
+- [The AProS project](http://www.phil.cmu.edu/projects/apros/)
+
+  Includes a web-based introductory course on Logic and Proof.
+
 
