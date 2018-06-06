@@ -95,6 +95,8 @@ If you would like add something, just send the text as you would like it to appe
 
 - Jon Barwise and John Etchemendy, [Hyperproof](https://web.stanford.edu/group/cslipublications/cslipublications/site/1881526119.shtml)
 
+  An introduction to logic, proof, and diagrammatic reasoning.
+
 - Femke van Raamsdonk, Hermann Guevers, et al., [Type Theory and Coq](http://www.cs.ru.nl/~freek/courses/tt-2016/)
 
   An introduction to logic, type theory, and metatheory, using Coq.
