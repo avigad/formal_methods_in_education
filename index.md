@@ -75,7 +75,7 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 
   A course on describing mathematical concepts and algorithms using Coq and the mathematlcal Components library.
 
-- [Dafny tutorial](https://rise4fun.com/dafny)
+- [Dafny Tutorial](https://rise4fun.com/dafny)
 
   An online tutorial for the Dafny program verification system.
 
