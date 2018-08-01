@@ -15,7 +15,7 @@ There are many axes along which one can organize such a list, such as the level 
 
 If you would like add something, just send the text as you would like it to appear to <avigad@cmu.edu>, preferrably already formatted in [markdown](https://daringfireball.net/2004/12/markdown_101). Entries should provide a link to the relevant resources, which in turn should make use of formal tools (theorem provers, SAT solvers, model checkers, etc.) in some way.
 
-The source for this pages is [here](https://github.com/avigad/formal_methods_in_education), based on a [template](http://kbroman.org/simple_site/) by Karl Broman.
+The source for this page is [here](https://github.com/avigad/formal_methods_in_education), based on a [template](http://kbroman.org/simple_site/) by Karl Broman.
 
 ### Computer Science
 
