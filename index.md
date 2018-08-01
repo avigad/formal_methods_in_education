@@ -21,7 +21,7 @@ If you would like add something, just send the text as you would like it to appe
 
   A book on designing reliable software, using Coq.
 
-- Adam Chlipala, [Certified Programming with Dependendent Types](http://adam.chlipala.net/cpdt/)
+- Adam Chlipala, [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/)
 
   A book about software engineering, using Coq.
 
@@ -72,7 +72,15 @@ If you would like add something, just send the text as you would like it to appe
 - Yves Bertot, Cyril Cohen, Laurence Rideau, and Enrico Tassi, [Advanced Software Verification and Computer Proof](https://team.inria.fr/marelle/en/advanced-coq-winter-school-2016-2017/)
 
   A course on describing mathematical concepts and algorithms using Coq and the mathematlcal Components library.
-  
+
+- [Dafny tutorial](https://rise4fun.com/dafny)
+
+  An online tutorial for the Dafny program verification system.
+
+- Rustan Leino and colleagues, [Verification Corner](https://www.youtube.com/channel/UCP2eLEql4tROYmIYm5mA27A)
+
+  Videos on topics in verification, based on Dafny.
+
 ### Mathematics
 
 - Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn, [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
