@@ -83,6 +83,14 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 
   Videos on topics in verification, based on Dafny.
 
+- Jasmin Blanchette and Alexander Bentkamp, [Logical Verification](https://lean-forward.github.io/logical-verification/2019/)
+
+  An introduction to Lean, with applications to both computer science and mathematics.
+
+- Jasmin Blanchette and Robert Lewis, [Logic and Modelling](https://www.vu.nl/en/study-guide/2018-2019/bachelor/computer-science/index.aspx?view=module&origin=50049126&id=50049663)
+
+  A course based on Lean.
+
 ### Mathematics
 
 - Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn, [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
@@ -100,6 +108,10 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 - Chris Sangwin, [Computer Aided Assessment of Mathematics](https://global.oup.com/academic/product/computer-aided-assessment-of-mathematics-9780199660353?cc=gb&lang=en&)
 
   A book on the use of computer aided assessment.
+
+- Patrick Massot, [Introduction aux mathématiques formalisées](https://www.math.u-psud.fr/~pmassot/enseignement/math114/)
+
+  An introduction to formalized mathematics, using Lean.
    
 ### Logic and Formal Methods
 
