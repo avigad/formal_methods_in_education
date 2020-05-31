@@ -9,7 +9,7 @@ There are many axes along which one can organize such a list, such as the level 
 
 - computer science: material for teaching students to use formal methods for computational purposes, e.g. courses on software design and verification.
 
-- mathematics: material for teaching mathematics, e.g. courses on discrete mathematics or introductions to mathematical proof. 
+- mathematics: material for teaching mathematics, e.g. courses on discrete mathematics or introductions to mathematical proof.
 
 - logic and formal methods: materials for teaching logic and formal methods themselves, e.g. courses on dependent type theory and automated reasoning.
 
@@ -19,7 +19,7 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 
 ### Computer Science
 
-- Benjamin Pierce at al., [Software Foundations](https://softwarefoundations.cis.upenn.edu). 
+- Benjamin Pierce at al., [Software Foundations](https://softwarefoundations.cis.upenn.edu).
 
   A book on designing reliable software, using Coq.
 
@@ -33,11 +33,11 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 
 - Tobias Nipkow and Gerwin Klein, [Concrete Semantics](http://www.concrete-semantics.org/)
 
-  A book on the semantics of programming languages, using Isabelle.    
+  A book on the semantics of programming languages, using Isabelle.
 
 - Peter Dybjer, [Types for Programs and Proofs](http://www.cse.chalmers.se/edu/year/2016/course/DAT140/)
 
-  A course on types systems in programming language design, using Agda. 
+  A course on types systems in programming language design, using Agda.
 
 - J. Strother Moore, [A Formal Model of the Java Virtual Machine](https://www.cs.utexas.edu/users/moore/classes/cs378-jvm/index.html)
 
@@ -47,7 +47,7 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 
   A book on writing verified programs with Agda.
 
-- Jacques Fleuriot, [Formal Verification](http://www.inf.ed.ac.uk/teaching/courses/fv/) 
+- Jacques Fleuriot, [Formal Verification](http://www.inf.ed.ac.uk/teaching/courses/fv/)
 
   A course on formal verification, using model checking, SAT, and SMT.
 
@@ -91,6 +91,13 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 
   A course based on Lean.
 
+- Maria Knobelsdorf, Christiane Frede, Sebastian Böhne, and Christoph Kreitz, [Theorem Provers as a Learning Tool in Theory of Computation](https://dl.acm.org/doi/10.1145/3105726.3106184)
+
+A paper on using Coq to teach proof in CS.
+
+
+
+
 ### Mathematics
 
 - Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn, [Logic and Proof](https://leanprover.github.io/logic_and_proof/)
@@ -99,9 +106,9 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 
 - Daniel Velleman, [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
 
-  A Java applet designed to help students write proofs. 
+  A Java applet designed to help students write proofs.
 
-- [The STACK Project](https://stack.maths.ed.ac.uk/demo/question/type/stack/doc/doc.php/About/index.md) 
+- [The STACK Project](https://stack.maths.ed.ac.uk/demo/question/type/stack/doc/doc.php/About/index.md)
 
   A system for designing sophisticated computer-aided assessments in mathematics.
 
@@ -112,7 +119,17 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 - Patrick Massot, [Introduction aux mathématiques formalisées](https://www.math.u-psud.fr/~pmassot/enseignement/math114/)
 
   An introduction to formalized mathematics, using Lean.
-   
+
+- Benjamin C. Pierce et al, [Discrete Math in Coq](Benjamin C. Pierce)
+
+A textbook.
+
+- Jeremy Avigad, Kevin Buzzard, Robert Y. Lewis, and Patrick Massot,
+[Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/)
+
+An interactive textbook.
+
+
 ### Logic and Formal Methods
 
 - Jon Barwise and John Etchemendy, [Hyperproof](https://web.stanford.edu/group/cslipublications/cslipublications/site/1881526119.shtml)
@@ -138,5 +155,3 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 - [The AProS project](http://www.phil.cmu.edu/projects/apros/)
 
   Includes a web-based introductory course on Logic and Proof.
-
-
