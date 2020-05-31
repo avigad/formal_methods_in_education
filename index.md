@@ -93,7 +93,7 @@ The source for this page is [here](https://github.com/avigad/formal_methods_in_e
 
 - Maria Knobelsdorf, Christiane Frede, Sebastian Böhne, and Christoph Kreitz, [Theorem Provers as a Learning Tool in Theory of Computation](https://dl.acm.org/doi/10.1145/3105726.3106184)
 
-A paper on using Coq to teach proof in CS.
+  A paper on using Coq to teach proof in CS.
 
 
 
@@ -122,12 +122,12 @@ A paper on using Coq to teach proof in CS.
 
 - Benjamin C. Pierce et al, [Discrete Math in Coq](Benjamin C. Pierce)
 
-A textbook.
+  A textbook.
 
 - Jeremy Avigad, Kevin Buzzard, Robert Y. Lewis, and Patrick Massot,
 [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/)
 
-An interactive textbook.
+  An interactive textbook.
 
 
 ### Logic and Formal Methods
