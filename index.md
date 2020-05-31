@@ -155,3 +155,7 @@ An interactive textbook.
 - [The AProS project](http://www.phil.cmu.edu/projects/apros/)
 
   Includes a web-based introductory course on Logic and Proof.
+
+- Jeremy Avigad, Soonho Kong, and Leonardo de Moura, [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/).
+
+  An introduction to dependent type theory and Lean.
