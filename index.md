@@ -3,6 +3,8 @@ title: Resources for Teaching with Formal Methods
 layout: page
 ---
 
+*This page is no longer being maintained. It has not been updated since March 2020. See, instead, the [Formal Methods Teaching Committee](https://fme-teaching.github.io/) web pages.*
+
 This page collects resources for anyone considering the use of formal methods and formal tools in a classroom. The effort grew out of a discussion that was held during the [Big Proof](https://www.newton.ac.uk/event/bpr) program at the Isaac Newton Institute in Cambridge, UK. A [recording](https://www.newton.ac.uk/seminar/20170724153017302) of the discussion is available.
 
 There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.). Here I have chosen to classify the material by subject matter:
